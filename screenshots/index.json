@@ -1,0 +1,11 @@
+[
+  {
+    "repo": "yapstone",
+    "captured_at": "2026-10-11T194913",
+    "source_url": "http://www.yapstone.com",
+    "source_type": "Website",
+    "file": "yapstone-2026-10-11T194913.png",
+    "bytes": 570170,
+    "capture": "playwright-local"
+  }
+]
